@@ -59,7 +59,7 @@ body {
     width: 100%;
     height: 8px;
     /* paste the image path */
-    background-image: url(file:///C:/Users/ELCOT/Document/fingerprint/fin1.PNG);
+    background-image: url(https://user-images.githubusercontent.com/125794481/233090422-2c67a4fb-441c-4be8-944a-5a5e0e611ee7.png);
     background: #3fefef;
     border-radius: 8px;
     filter: drop-shadow(0 0 20px #3fefef) drop-shadow(0 0 60px #3fefef);
